@@ -55,6 +55,7 @@
 #define MONEY_SUPPLY_ETN                               ((uint64_t)(2100000000000)) // ETN MONEY_SUPPLY
 #define MONEY_SUPPLY                                   ((uint64_t)(21000000000000)) // after the ETNX fork
 #define TOKENS                                         ((uint64_t)(20000000000000)) // after the first 10BB ETNX Coin Burn
+#define TOKEN_SUPPLY                                   ((uint64_t)(10000000000000)) // after the 100BB ETNX Coin Burn
 
 #define EMISSION_SPEED_FACTOR_PER_MINUTE                (20)
 #define FINAL_SUBSIDY_PER_MINUTE                        ((uint64_t)0) // 0 * pow(10, 0)
