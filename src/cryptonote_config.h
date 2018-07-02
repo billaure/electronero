@@ -47,6 +47,7 @@
 #define CRYPTONOTE_BLOCK_FUTURE_TIME_LIMIT              60*2
 
 #define CRYPTONOTE_DEFAULT_TX_SPENDABLE_AGE             10
+#define HARD_FORK_SPLIT                                 1 
 
 #define BLOCKCHAIN_TIMESTAMP_CHECK_WINDOW               60
 #define BLOCKCHAIN_TIMESTAMP_CHECK_WINDOW_V12		          30
